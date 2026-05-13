@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: ee8af492d8dc7fc469fc94117ce10ded
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARROWLEFT.001
+    second: {fileID: 2100000, guid: 4c8538f89448e6544906ad6859ce9328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum.002
+    second: {fileID: 2100000, guid: c1d0e555cf3ab6847b6a5664890eb1fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum.003
+    second: {fileID: 2100000, guid: ff059f0379356f348b7b6a42e7b75ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BACKPLATE.001
+    second: {fileID: 2100000, guid: 121cb1250cb479b4c8a6f18860204913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREEN.001
+    second: {fileID: 2100000, guid: f936e6145ead4e94fa5c135940229d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREENARROW.001
+    second: {fileID: 2100000, guid: 7704a775454b17740a16b6f810fd7415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GTX_amber_off.001
+    second: {fileID: 2100000, guid: 8991513470870cd4687dd5433d9962bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GTX_amber_off.003
+    second: {fileID: 2100000, guid: 0d873a9c2631550439527ba75699b720, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GTx_RED_OFF
+    second: {fileID: 2100000, guid: debdcf6555666974dbd3201b8f10da3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GTx_RED_OFF.001
+    second: {fileID: 2100000, guid: cd0f840f8c3c57a478600d9bb4bcc0b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GTx_green_on.001
+    second: {fileID: 2100000, guid: f6ce38ad0c5ff904a9e98302cb90a90f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GTx_red_on.002
+    second: {fileID: 2100000, guid: da503a09436a4214eb9730e5432e3c4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ICC
+    second: {fileID: 2100000, guid: 13f75320805989941aaf3f8153641d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 808ce77bd4234b248aca587fc61a1a47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 8fbe1af59dd852643a0d177938566db1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange_hand_ON.001
+    second: {fileID: 2100000, guid: 364de053ed7b3aa4eb09fc4fa28f8414, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: POLARA.001
+    second: {fileID: 2100000, guid: 10af5c284bc035843b588c5055bfea23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ped_OFF.002
+    second: {fileID: 2100000, guid: f9ba02c4c400a23489ef9aa12529d020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STREET_LAMP.002
+    second: {fileID: 2100000, guid: f6bf2a345004c4d438bbf2a1cee4eda1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STREET_LAMP_LENS.002
+    second: {fileID: 2100000, guid: 006a6bf7580af9143aaae57d7c215d7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STREET_LAMP_REFLECTOR_BOWL.002
+    second: {fileID: 2100000, guid: d32842131bfc008429fd0b988b795d5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum_signal.001
+    second: {fileID: 2100000, guid: 1f4127d8778f4444d950331dd9f65f41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bolt.002
+    second: {fileID: 2100000, guid: 6f53ac3bd27857749b8c06c17d1ce8da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brackets.002
+    second: {fileID: 2100000, guid: 86d22ce7f4aeac640b5abb604ded330e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brackets.004
+    second: {fileID: 2100000, guid: abddc9f840309dd409abbdbbfb3d4b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: do_not_CROSS
+    second: {fileID: 2100000, guid: 2828f370eb6acaa4abc1b16f11e2fe54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: do_not_cross.001
+    second: {fileID: 2100000, guid: d0cc9fc72a10c644680ce724e0c1d902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gtx_red_on.001
+    second: {fileID: 2100000, guid: ac24064a30543ea4a846ca7e2389078f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inner_visor.001
+    second: {fileID: 2100000, guid: bde8a0fb05e0e0a41b2f44359cc80e6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inner_visor_lfe
+    second: {fileID: 2100000, guid: b983b1f24eadf1443beceafd623c5ed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inner_visor_lfe.001
+    second: {fileID: 2100000, guid: ad10612d5bff20445af6727bfdafbf6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inner_visor_lfe.002
+    second: {fileID: 2100000, guid: 49bb761cf73653f418f28afdca9e3cc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 38b0f7c934c58b74aa30cda4bdd0ab83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metaltothepetal.002
+    second: {fileID: 2100000, guid: 6c13491b1b9435740bbbd5f751921bbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: outline.002
+    second: {fileID: 2100000, guid: 8f0013675e89a7b42a860bb0a3996165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedestrian
+    second: {fileID: 2100000, guid: 48c20e67ad76ef64daa10191e0becdc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plumbizer_arm
+    second: {fileID: 2100000, guid: 67a1dba9ffe48a241b53cd77ed639d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plumbizer_bolts
+    second: {fileID: 2100000, guid: 33db91f9d0febeb41a574e0884cbc053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: post
+    second: {fileID: 2100000, guid: 0dfd89b51954d494fba1e0de68d017ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: post.003
+    second: {fileID: 2100000, guid: f0e817300b4165148af5e202203cf8c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber.001
+    second: {fileID: 2100000, guid: d626f791e3e39c94287ba7d6dc059b35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber_rim
+    second: {fileID: 2100000, guid: 16f0efb2ba20d564ab1f5f715241c779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber_rim.001
+    second: {fileID: 2100000, guid: 78c8ddbc75c1d8349a01283aa16d28c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber_rim.002
+    second: {fileID: 2100000, guid: f8ef8f6c0a8bc7a4ca310ab191bcbc83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sign_rear
+    second: {fileID: 2100000, guid: 2256d0f2ec5391843abcc5df490eafee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: street_sign_cerritos
+    second: {fileID: 2100000, guid: 75dbbd70ad6f37f4996f1f44f39cb52f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: street_sign_sanferndando
+    second: {fileID: 2100000, guid: 280aaf6eeb6bb2b4aafce1a2a87a9e6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: streetsign_big
+    second: {fileID: 2100000, guid: d5f45e8f0abe8724e9f3452505c84d16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: train_station.001
+    second: {fileID: 2100000, guid: f784b913075e342448518cebaac01113, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0
+    second: {fileID: 2800000, guid: 2e6aa7a0f8d073d458ecfaaa233a102c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: ff54d9a48cced6146bc479bbadcca8e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10
+    second: {fileID: 2800000, guid: 824accc3aeb476f4f91e232fc2efafff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 11
+    second: {fileID: 2800000, guid: bc26150409ca3014e9786bb8129fcc8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2
+    second: {fileID: 2800000, guid: a27be8bd1f2100e4ba8d53e80329fb63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2800000, guid: f6c3768e36aab1240af86b619db855b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 4
+    second: {fileID: 2800000, guid: b02b7b64f82bc2140b85da7bdfe9deb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5
+    second: {fileID: 2800000, guid: 4c6d70e63f269fa4f85b617d1655c3eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6
+    second: {fileID: 2800000, guid: d253796d1c092cc4295642b9714e2bf8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7
+    second: {fileID: 2800000, guid: 1cbb95accf85f5446b29926ac38c9e72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 8
+    second: {fileID: 2800000, guid: 2e8e6d1e5ae4b9e4a977877e9e9c4cd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9
+    second: {fileID: 2800000, guid: 1a9b1104f729f1645a8d329565723288, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
